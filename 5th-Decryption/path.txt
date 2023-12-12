@@ -1,0 +1,3 @@
+C:\study\Minor Project Code\5th-Decryption\input.txt
+C:\study\Minor Project Code\5th-Decryption\privatekey.pem
+C:\study\Minor Project Code\5th-Decryption

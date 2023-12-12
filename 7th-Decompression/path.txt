@@ -1,0 +1,2 @@
+Enter the path to the compressed image: C:\study\Minor Project Code\7th-Decompression\Sample_compressed.jpg
+Enter the path to the output folder: C:\study\Minor Project Code\7th-Decompression\output
